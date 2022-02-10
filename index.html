@@ -4,10 +4,44 @@
 <head>
   <title>Movable Ink</title>
   <meta charset="UTF-8" />
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-  <div id="app"></div>
+  <div id="app">
+    <h1>Weather Forecast For </h1>
+    <div class="weatherContainer">
+      <div class="day"><h1>Today:</h1>
+        <div class="weatherIcons">
+          <img id="img0" src="/img/sunny.png" alt="">
+          <div>
+          <h2 id="type0">clear</h2>
+          <h2 id="temp0"></h2>
+        </div>
+        </div>
+      </div>
+      <div class="day"><h1>Tomorrow:</h1>
+        <div class="weatherIcons">
+          <img id="img1" src="/img/snow.png" alt="">
+          <div>
+          <h2 id="type1">clear</h2>
+          <h2 id="temp1"></h2>
+        </div>
+        </div>
+      </div>
+      <div class="day"><h1>Next:</h1>
+        <div class="weatherIcons">
+          <img id="img2" src="/img/rain.png" alt="">
+          <div>
+          <h2 id="type2">clear</h2>
+          <h2 id="temp2"></>
+        </div>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
 </body>
 <script src="src/app.js"></script>
 

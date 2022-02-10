@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+}
+
+.weatherContainer {
+    display: flex;
+}
+
+.day {
+    background: rgb(138, 200, 221);
+    border: 2rem;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.weatherIcons{
+
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+h2{
+    margin: 0;
+}
+
+img{
+    max-height: 45px;
+}
