@@ -1,10 +1,8 @@
-# Front End Developer, Client Solutions - Hiring Challenge
-
-Movable Ink is a software company that provides marketers with technology to create personalized experiences. This often means we are reaching out to different API's, applying business logic to the data, and generating an image in real-time.
+# Front End Developer, Client Solutions
 
 In this code challenge, you will be in charge of creating a view that renders the forecast for a specific location. Please, use plain HTML, CSS, and JS.
 
-**Don't spend more than two hours on this.** The goal of this challenge is to get a sense for how you reason about a problem and structure your code _not_ if you can finish it.
+ The goal of this challenge is to get a sense for how you reason about a problem and structure your code _not_ if you can finish it.
 
 ## Challenge details
 
