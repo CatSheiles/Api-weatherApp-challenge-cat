@@ -1,8 +1,12 @@
 # Front End Developer, Client Solutions
-
 In this code challenge, you will be in charge of creating a view that renders the forecast for a specific location. Please, use plain HTML, CSS, and JS.
 
  The goal of this challenge is to get a sense for how you reason about a problem and structure your code _not_ if you can finish it.
+
+
+## <u>Completed Project Screenshot</u>
+
+![my screenshot](mi-weather-app.PNG)
 
 ## Challenge details
 
